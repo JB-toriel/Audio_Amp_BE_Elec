@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Circuit1-rescue)(type Legacy)(uri ${KIPRJMOD}/Circuit1-rescue.lib)(options "")(descr ""))
+  (lib (name Phelma-Amp)(type Legacy)(uri ${KIPRJMOD}/Phelma-Amp.lib)(options "")(descr ""))
+)
